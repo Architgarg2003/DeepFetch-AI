@@ -58,8 +58,8 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory with the following content:
 
 ```
-GOOGLE_API_KEY=AIzaSyBSIh1TNpbNfI-6mj4OqJQE6sfYOjSWAZM
-SERPAPI_API_KEY=e48cda49ba0085931b047390e664b7930a6815ee96519663deee0261bc7d01e3
+GOOGLE_API_KEY=YOUR_API_KEY
+SERPAPI_API_KEY=YOUR_API_KEY
 API_URL=http://localhost:5000
 ```
 
