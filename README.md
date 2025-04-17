@@ -93,8 +93,8 @@ This will launch the Streamlit frontend at:
 
 ## ✨ Features
 
-- 🌐 **Live Web Content Retrieval** using serpAPI or Google Programmable Search.
-- 🤖 **Response Generation** with Gemini or OpenAI LLMs.
+- 🌐 **Live Web Content Retrieval** using serpAPI.
+- 🤖 **Response Generation** with Gemini .
 - 🧠 **Conversational Memory** using LangChain for contextual continuity.
 - 🖥️ **Streamlit UI** for easy interaction.
 - 🔍 **Search Debugging** and source tracking enabled.
