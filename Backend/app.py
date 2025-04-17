@@ -334,5 +334,4 @@ if __name__ == '__main__':
         # exit(1) # Optional: Force exit if you prefer
     else:
         print("\nConfiguration OK. Starting Flask server...")
-        # app.run(host='0.0.0.0', port=5000, debug=False) # Use debug=False for production
-        app.run()
+        app.run(host='0.0.0.0', port=5000, debug=False) # Use debug=False for production
